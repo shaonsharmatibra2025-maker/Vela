@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vela — anime and manga, free and beautiful",
+      "hasCanvas": false,
+      "bodyTextLen": 2436,
+      "bodyTextHash": "de71975bd42e602b6017dd56da59f0ca452d53eab50295fba96cd4219e7ee102",
+      "bodyTextPrefix": "Vela Features Crew Notes Contact View titles 267 TITLES IN THE C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vela — anime and manga, free and beautiful",
+      "hasCanvas": false,
+      "bodyTextLen": 2436,
+      "bodyTextHash": "de71975bd42e602b6017dd56da59f0ca452d53eab50295fba96cd4219e7ee102",
+      "bodyTextPrefix": "Vela Features Crew Notes Contact View titles 267 TITLES IN THE C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
